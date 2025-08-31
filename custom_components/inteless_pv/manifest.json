@@ -1,0 +1,8 @@
+{
+  "domain": "inteless_pv",
+  "name": "Inteless PV",
+  "version": "0.1.0",
+  "documentation": "https://github.com/yourname/inteless_pv",
+  "requirements": ["aiohttp"],
+  "codeowners": ["@twoj_nick"]
+}
